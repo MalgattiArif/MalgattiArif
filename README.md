@@ -80,8 +80,8 @@ I focus on writing clean, maintainable code, designing scalable APIs, and shippi
 ## 📫 Get in Touch
 
 - Email: arifmalgatti5@gmail.com
-- LinkedIn: https://www.linkedin.com
-- GitHub: https://github.com
+- LinkedIn: https://www.linkedin.com/in/arif-malgatti-824083170
+- GitHub: https://github.com/MalgattiArif
 
 ---
 
